@@ -40,6 +40,7 @@ ESSID
 
 CAPWAP
 集中管理型APと無線LANスイッチ間でやりとりされる制御プロトコルです。
+CAPWAPは、Ciscoの中央集中型WLANアーキテクチャ（Cisco Unified Wireless Networkソリューションの機能アーキテクチャ）で使用される基盤となるプロトコルで、APとWLCの間のWLANクライアントトラフィックのカプセル化と転送に加えて、APとWLANの設定および管理を行います。
 
 ■FHRP（First Hop Redundancy Protocol）
 デフォルトゲートウェイを冗長化するためのプロトコルにはHSRP、GLBP、VRRPの3つがあって、それらを総称してFHRPと呼びます。
